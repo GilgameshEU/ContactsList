@@ -1,0 +1,3 @@
+[build]
+  command = "php public/index.php"
+
